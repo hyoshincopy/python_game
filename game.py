@@ -47,7 +47,7 @@ def message_display(text):
 
 
 def crash():
-    message_display('he is dead')
+    message_display('he is dead')ase
 
 
 def game_loop():
