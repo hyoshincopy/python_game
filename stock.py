@@ -16,6 +16,7 @@ def func():
     bps = jabon/stock_num
     per = present_price/eps
     pbr = present_price/bps
+    xxb=123123
     # avg_5years_per = []
     # for i in range(0, 5):
     #     tmp = int(input('5년 동안의 PER 을 입력하세요 :'))
