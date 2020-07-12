@@ -14,7 +14,7 @@ aad=12
 car_width = 73
 
 gameDisplay = pygame.display.set_mode((display_width, display_height))
-pygame.display.set_caption('연승이의 모험')
+pygame.display.set_caption('연승이의 xx모험')
 clock = pygame.time.Clock()
 
 carImg = pygame.image.load('fly1.png')
