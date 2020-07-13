@@ -1,7 +1,7 @@
 
 
 def func():
-    jabon = int(input('자본 입력 r: '))
+    jabon = int(input('자본 입력 2r: '))
     boochae = int(input('부채 입력: '))
     dang_gi_soon_eeik = int(input('당기 순이익 입력: '))
     stock_num = int(input('발행 주식 수 입력: '))
