@@ -12,7 +12,7 @@ white = (255, 255, 255)
 red = (255, 0, 0)
 aad=12
 car_width = 73
-print(199)
+print(200)
 gameDisplay = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption('연승이의 xx112모험')
 clock = pygame.time.Clock()
